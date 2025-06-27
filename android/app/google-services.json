@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "133932690060",
+    "project_id": "fir-auth-task-2-5a221",
+    "storage_bucket": "fir-auth-task-2-5a221.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133932690060:android:97a735869d1a77417ca9a9",
+        "android_client_info": {
+          "package_name": "com.example.combined_app_task2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133932690060-9ja3goha8bn62hivl2k7jpuaun6kro85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5b-fvjD8Kj9mJzg-CahP7h4_mY-g7s_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133932690060-9ja3goha8bn62hivl2k7jpuaun6kro85.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "133932690060-prm59m587leu2obe9f4g7snd4obo29co.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.combinedAppTask2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
