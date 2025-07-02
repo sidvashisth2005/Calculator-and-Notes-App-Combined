@@ -17,7 +17,6 @@ A cross-platform Flutter application that combines a simple Calculator and a Not
 ---
 
 ## 📸 Screenshots
-## Screenshots
 
 <img src="Screenshots/ss1%20%285%29.png" alt="Screenshot 5" width="200" /> <img src="Screenshots/ss1%20%284%29.png" alt="Screenshot 4" width="200" />
 
