@@ -18,7 +18,12 @@ A cross-platform Flutter application that combines a simple Calculator and a Not
 
 ## 📸 Screenshots
 
-> screenshots of the Calculator, Notes, Login, and Registration screens here._
+![Screenshot 1](Screenshots/ss1%20%281%29.png)  
+![Screenshot 2](Screenshots/ss1%20%282%29.png)  
+![Screenshot 3](Screenshots/ss1%20%283%29.png)  
+![Screenshot 4](Screenshots/ss1%20%284%29.png)  
+![Screenshot 5](Screenshots/ss1%20%285%29.png)
+
 
 ---
 
