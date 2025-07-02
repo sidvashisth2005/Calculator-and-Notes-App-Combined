@@ -132,7 +132,7 @@ class _RegistrationPageState extends State<RegistrationPage> {
         ScaffoldMessenger.of(context).showSnackBar(
           const SnackBar(content: Text('Account created successfully!')),
         );
-        Navigator.pushReplacementNamed(context, '/home');
+        // Navigation to home is handled by the StreamBuilder in main.dart
       } else {
         String message;
         if (error == 'weak-password') {
